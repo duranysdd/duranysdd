@@ -1,16 +1,30 @@
-## Hi there 👋
+# 💻 Bienvenido a Mi GitHub!
 
-<!--
-**duranysdd/duranysdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Hola, Soy Yahir Duran, estudiante de la UTT (Universidad Tecnologica de Tlaxcala), actualmente cursando el noveno cuatrimestre en Desarrollo de Software Multiplataforma
 
-Here are some ideas to get you started:
+## Tecnologías
+Aquí están algunas de las tecnologías en las que eh trabajado:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python
+- ⚛️ React
+- 🛠️ Node.js
+- 🔥 Firebase
+
+## 📫 Contacto
+Si quieres colaborar o simplemente decir hola, encuéntrame aquí:
+- [LinkedIn](https://www.linkedin.com/in/duranyahir/)
+
+- 📧 Correo: duranysd1119@gmail.com
+
+## 📊 Estadísticas
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=duranysdd&show_icons=true&theme=radical)
+
+## 🎨 Proyectos Destacados
+🔹 [SCCAP](https://github.com/duranysdd/SCCAP_Web) Desarrollo de un dispositivo IOT con la funcion de medir la puresa del agua.
+
+¡Gracias por visitar mi perfil! 🤠
+
+
+
+![alt text](image.png)
